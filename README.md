@@ -3,19 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuoki&label=Profile%20views&color=0e75b6&style=flat" alt="zuoki" /> </p>
 
+<ul>
+    <li>State management with Redux.</li>
+    <li>Experience in server development with Node.js.</li>
+    <li>Work with PostgreSQL databases and Sequelize ORM.</li>
+    <li>Building applications with Next.js.</li>
+    <li>Following agile methodologies like SCRUM.</li>
+    <li>Collaboration and version control in environments like Github.</li>
+    <li>I am excited to apply my skills and knowledge in challenging projects. Don't hesitate to contact me to explore possible collaborations or to learn more about my experience!</li>
+</ul>
+
 - 🔭 I’m currently working on [my Porfolio](www.porfolioFalso123.com)
 
 - 🌱 I’m currently learning **Typescript and english.**
 
 - 👨‍💻 All of my projects are available at [www.porfolioFalso123.com](www.porfolioFalso123.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-juarez-720998240/](https://www.linkedin.com/in/gabriel-juarez-720998240/)
-
 - 💬 Ask me about **react,redux,sequalize...**
 
 - 📫 How to reach me **jgcorrea56@gmail.com**
 
-- ⚡ Fun fact [i are so creative.](i are so creative.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
