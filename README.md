@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm Jonathan Gabriel Juárez</h1>
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer!;Proactive;Creative&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+
 <!-- markdownlint-enable MD033 -->
 
 <p align="center"> 🔭 I’m currently working on my Porfolio</p>
