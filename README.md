@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Gabriel Juárez</h1>
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+><p align="center"> 🔭 I’m currently working on my Porfolio</p>
 
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
@@ -21,7 +19,7 @@
 
 <!-- markdownlint-enable MD033 -->
 
-<p align="center"> 🔭 I’m currently working on my Porfolio</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuoki&label=Profile%20views&color=0e75b6&style=flat" alt="zuoki" /> </p>
 
 <ul>
