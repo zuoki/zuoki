@@ -8,8 +8,15 @@
 ><p align="center"> 🔭 I’m currently working on my Porfolio</p>
 
 > [!TIP]  
-> Highlights information that users should take into account, even when skimming.
-
+> <ul>
+    <li>State management with Redux.</li>
+    <li>Experience in server development with Node.js.</li>
+    <li>Work with PostgreSQL databases and Sequelize ORM.</li>
+    <li>Building applications with Next.js.</li>
+    <li>Following agile methodologies like SCRUM.</li>
+    <li>Collaboration and version control in environments like Github.</li>
+    <li>I am excited to apply my skills and knowledge in challenging projects. Don't hesitate to contact me to explore possible collaborations or to learn more about my experience!</li>
+</ul>
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
 
@@ -23,18 +30,6 @@
 
 <!-- markdownlint-enable MD033 -->
 
-
-
-
-<ul>
-    <li>State management with Redux.</li>
-    <li>Experience in server development with Node.js.</li>
-    <li>Work with PostgreSQL databases and Sequelize ORM.</li>
-    <li>Building applications with Next.js.</li>
-    <li>Following agile methodologies like SCRUM.</li>
-    <li>Collaboration and version control in environments like Github.</li>
-    <li>I am excited to apply my skills and knowledge in challenging projects. Don't hesitate to contact me to explore possible collaborations or to learn more about my experience!</li>
-</ul>
 
 - 🌱 I’m currently learning **Typescript and English.**
 
