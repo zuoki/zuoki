@@ -4,9 +4,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer!;Proactive;Creative&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-<!-- markdownlint-enable MD033 -->
 > .[!NOTE].
 > aqui tienew una nota
+<!-- markdownlint-enable MD033 -->
+
 <p align="center"> 🔭 I’m currently working on my Porfolio</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuoki&label=Profile%20views&color=0e75b6&style=flat" alt="zuoki" /> </p>
 
