@@ -19,13 +19,6 @@
 ></ul>
 
 
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-
 >[!IMPORTANT]  
 >- 🌱 I’m currently learning **Typescript and English.**
 >- 👨‍💻 All of my projects are available at [www.porfolioFalso123.com](www.porfolioFalso123.com)
