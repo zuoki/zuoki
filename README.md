@@ -7,7 +7,7 @@
 ></p>
 ><p align="center"> 🔭 I’m currently working on my Porfolio</p>
 
-> [!NOTE]  
+> [!TIP]  
 > Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]  
