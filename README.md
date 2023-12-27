@@ -6,6 +6,7 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 > .[!NOTE].
+> aqui tienew una nota
 <p align="center"> 🔭 I’m currently working on my Porfolio</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuoki&label=Profile%20views&color=0e75b6&style=flat" alt="zuoki" /> </p>
 
