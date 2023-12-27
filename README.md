@@ -1,12 +1,9 @@
-<script>
-  document.body.style.backgroundColor = "red"; // Cambia el color de fondo del cuerpo a rojo
-</script>
- <h1 align="center">Hi 👋, I'm Jonathan Gabriel Juárez</h1>
+<h1 align="center">Hi 👋, I'm Jonathan Gabriel Juárez</h1>
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
 </p>
-<p align="center">
+<p style="font-family: 'Courier New'; align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer!;Proactive;Creative&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <!-- markdownlint-enable MD033 -->
