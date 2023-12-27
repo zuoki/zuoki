@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jonathan Gabriel Juárez</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuoki&label=Profile%20views&color=0e75b6&style=flat" alt="diaz027" /> </p>
+
 - 🔭 I’m currently working on [my Porfolio](www.porfolioFalso123.com)
 
 - 🌱 I’m currently learning **Typescript and english.**
