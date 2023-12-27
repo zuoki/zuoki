@@ -17,7 +17,8 @@
   >  <li>Collaboration and version control in environments like Github.</li>
   >  <li>I am excited to apply my skills and knowledge in challenging projects. Don't hesitate to contact me to explore possible collaborations or to learn more about my experience!</li>
 ></ul>
-> [!IMPORTANT]  
+
+>[!IMPORTANT]  
 > Crucial information necessary for users to succeed.
 
 > [!WARNING]  
