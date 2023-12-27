@@ -9,14 +9,6 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
-## ⚡ Quick setup
-
-1. Copy-paste the markdown below into your GitHub profile README
-2. Replace the value after `?lines=` with your text. Separate lines of text with semicolons and use `+` or `%20` for spaces.
-3. Adjust the width parameter (see below) to fit the full width of your text.
-
-
-<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 <p align="center"> 🔭 I’m currently working on my Porfolio</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuoki&label=Profile%20views&color=0e75b6&style=flat" alt="zuoki" /> </p>
