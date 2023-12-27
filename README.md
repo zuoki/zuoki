@@ -28,19 +28,9 @@
 
 >[!IMPORTANT]  
 > Crucial information necessary for users to succeed.
-
-<!-- markdownlint-disable MD033 MD041 -->
-
-<!-- markdownlint-enable MD033 -->
-
-
-- 🌱 I’m currently learning **Typescript and English.**
-
-- 👨‍💻 All of my projects are available at [www.porfolioFalso123.com](www.porfolioFalso123.com)
-
-- 💬 Ask me about **react,redux,sequalize...**
-
-- 📫 How to reach me **jgcorrea56@gmail.com**
+>- 🌱 I’m currently learning **Typescript and English.**
+>- 👨‍💻 All of my projects are available at [www.porfolioFalso123.com](www.porfolioFalso123.com)
+>- 📫 How to reach me **jgcorrea56@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
