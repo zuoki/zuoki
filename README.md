@@ -18,14 +18,16 @@
   >  <li>I am excited to apply my skills and knowledge in challenging projects. Don't hesitate to contact me to explore possible collaborations or to learn more about my experience!</li>
 ></ul>
 
->[!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+
 
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
 
 > [!CAUTION]
 > Negative potential consequences of an action.
+
+>[!IMPORTANT]  
+> Crucial information necessary for users to succeed.
 
 <!-- markdownlint-disable MD033 MD041 -->
 
