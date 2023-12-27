@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan Gabriel Juárez</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
+<p align="center"> 🔭 I’m currently working on [my Porfolio](www.porfolioFalso123.com) </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuoki&label=Profile%20views&color=0e75b6&style=flat" alt="zuoki" /> </p>
 
@@ -12,8 +13,6 @@
     <li>Collaboration and version control in environments like Github.</li>
     <li>I am excited to apply my skills and knowledge in challenging projects. Don't hesitate to contact me to explore possible collaborations or to learn more about my experience!</li>
 </ul>
-
-- 🔭 I’m currently working on [my Porfolio](www.porfolioFalso123.com)
 
 - 🌱 I’m currently learning **Typescript and english.**
 
