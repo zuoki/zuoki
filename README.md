@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jonathan Gabriel Juárez</h1>
+<script>
+  document.body.style.backgroundColor = "red"; // Cambia el color de fondo del cuerpo a rojo
+</script>
+ <h1 align="center">Hi 👋, I'm Jonathan Gabriel Juárez</h1>
 
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
