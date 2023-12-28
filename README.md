@@ -3,7 +3,7 @@
 > [!NOTE]  
 ><p align="left"> <img src="https://komarev.com/ghpvc/?username=zuoki&label=Profile%20views&color=0e75b6&style=flat" alt="zuoki" /> </p>
 ><p align="center">
-> <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer!♥;Dedication💪;Creative🧶;Time Magnament⏱;Autodidact👨‍🎓;Comunicative🗣;Agile Methodologies🏃‍♂️;Team Player&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000"> 
+> <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer!♥;Dedication💪;Creative🧶;Time Magnament⏱;Autodidact👨‍🎓;Comunicative🗣;Agile Methodologies🏃‍♂️;Team Player🕹&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000"> 
 ></p>
 ><p align="center"> 🔭 I’m currently working on my Porfolio</p>
 
