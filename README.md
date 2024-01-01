@@ -21,7 +21,7 @@
 
 >[!IMPORTANT]  
 >- 🌱 I’m currently learning **Typescript and English.**
->- 👨‍💻 All of my projects are available at [www.porfolioFalso123.com](www.porfolioFalso123.com)
+>- 👨‍💻 All of my projects are available at [in-progress](in progress)
 >- 📫 How to reach me **jgcorrea56@gmail.com**
 
 
